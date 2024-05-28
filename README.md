@@ -3,7 +3,7 @@
 🌐 As a Full Stack Developer, I have experience working on both the frontend and backend of web applications. Here’s what I bring to the table:
 
 Frontend Skills:
-HTML: I create well-structured and semantic web pages.
+HTML: I create well-structured and semantic web pages.<br/>
 CSS: I design responsive and visually appealing user interfaces.
 JavaScript: I build interactive features and enhance user experiences.
 Backend Skills:
