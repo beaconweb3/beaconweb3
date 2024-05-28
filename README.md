@@ -6,6 +6,8 @@
 HTML: I create well-structured and semantic web pages.<br/>
 CSS: I design responsive and visually appealing user interfaces.<br/>
 JavaScript: I build interactive features and enhance user experiences.<br/>
+Others: VSCode, Jest, Yup, Axios.<br/>
+
 <h4>Backend Skills:</h4>
 Node.js: I use Node.js to develop server-side logic and APIs.<br/>
 SQL: I’m proficient in working with databases, writing queries, and managing data.<br/>
