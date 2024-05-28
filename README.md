@@ -13,6 +13,8 @@ Node.js: I use Node.js to develop server-side logic and APIs.<br/>
 SQL: I’m proficient in working with databases, writing queries, and managing data.<br/>
 Express.js: I create robust APIs and handle routing efficiently.<br/>
 MongoDB: I’ve worked with MongoDB for NoSQL database management.<br/>
+GitHub: Proficient in utilizing Git commands and GitHub workflows for efficient project management.<br/>
+VercelI: I've successfully deployed static sites, Next.js applications, and serverless APIs on Vercel.<br/>
 <br/>
 
 🚀 I’m actively seeking an entry-level position where I can contribute my skills and collaborate with a team to create impactful projects. Whether it’s building a sleek frontend or optimizing backend performance, I’m ready to dive in!
